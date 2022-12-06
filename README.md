@@ -11,8 +11,6 @@ Here is some information about me and my current path:
 
 📍 I was born in Bogota, Colombia and still live in this beautiful country.
 
-🌱 I am in my 30´s but still living and dreaming like in my 20´s.
-
 🦸🏻‍♀️ I am a fan of pop culture since I love watching anime, playing videogames and listening to related music.
 Besides my anime and EDM music, I really enjoy listening to pop, rock, reggae and reggaeton. The choice will depend on my mood 😎
 
