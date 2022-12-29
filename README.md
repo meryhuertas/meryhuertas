@@ -20,7 +20,7 @@ Besides my anime and EDM music, I really enjoy listening to pop, rock, reggae an
 As a data analyst I am improving my programming skills to be competent for tech industry:
 
 - Advanced Microsof Excel
-- Begginner SQL (Postgresql)
+- Intermediate SQL (Postgresql)
 - Intermediate Python (For data cleaning and statistical analysis)
 - Begginer Airflow (For ETL, really enjoying using this app/library)
 - Intermediate Microsoft Project (for projects management)
